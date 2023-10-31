@@ -132,7 +132,7 @@ export default function Home() {
                     <div className="flex justify-center flex-col items-center">
                         <span className="text-7xl mb-10">📝</span>
                         <h1 className="text-5xl md:text-7xl font-bold">
-                            ToooDooo's
+                            TooDoo's
                         </h1>
                     </div>
                     <div className="flex items-center gap-2 mt-10">
